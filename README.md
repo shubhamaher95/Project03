@@ -143,4 +143,3 @@ Gradient Descent helps minimize error between predicted and actual values.
 
 Compared results with Scikit-Learn → matched perfectly.
 
-Next steps: Extend this to Multiple Linear Regression and Logistic Regression.
